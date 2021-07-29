@@ -9,9 +9,8 @@
 * [Java基础](notes/java基础.md)
 * [Java容器](notes/Java容器.md)
 * [Java并发](notes/java并发.md)
-* [Java虚拟机](notes/Java 虚拟机.md)
+* [Java虚拟机](notes/java虚拟机.md)
 * [Java I/O](notes/Java IO.md)
-* 
 
 
 ## 算法
